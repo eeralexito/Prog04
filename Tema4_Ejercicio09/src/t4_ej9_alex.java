@@ -41,7 +41,7 @@ public class t4_ej9_alex {
 			}while(codigo.length()!=8 || !codigo.equals("00000000"));
 		
 		
-		System.out.println("Hombres de 1º: "+ h1 +"Hombres de 2º: "+ h2 +"Mujeres de 1º: "+ m1 +"Mujeres de 2º: "+ m2);
+		System.out.println("Hombres de 1º: "+ h1 +" Hombres de 2º: "+ h2 +" Mujeres de 1º: "+ m1 +" Mujeres de 2º: "+ m2);
 		
 
 	
